@@ -79,6 +79,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** Harini S (212224240049)<br>
 **Course:** Introduction to Cloud Computing  
 
